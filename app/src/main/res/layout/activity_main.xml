@@ -15,7 +15,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/logo"/>
+        app:srcCompat="@drawable/logos"/>
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/button"
@@ -23,15 +23,16 @@
         android:layout_height="46dp"
         android:background="@drawable/bean"
         android:fontFamily="@font/poppins_bold"
+        android:onClick="GirisActivate"
         android:radius="1dp"
+        android:text="GİRİŞ YAP"
         android:textColor="@color/white"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
-        app:layout_constraintVertical_bias="0.525"
-        android:text="GİRİŞ YAP" />
+        app:layout_constraintVertical_bias="0.525" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/button2"
@@ -39,6 +40,7 @@
         android:layout_height="46dp"
         android:background="@drawable/beanb"
         android:fontFamily="@font/poppins_bold"
+        android:onClick="HesapActivate"
         android:text="YENİ HESAP OLUŞTUR"
         android:textColor="#92278E"
         android:textSize="20sp"

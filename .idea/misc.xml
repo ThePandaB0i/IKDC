@@ -6,7 +6,13 @@
         <entry key="..\:/Mr. Pdf/Android Projects/app/src/main/res/drawable/bean.xml" value="0.236" />
         <entry key="..\:/Mr. Pdf/Android Projects/app/src/main/res/drawable/beanB.xml" value="0.236" />
         <entry key="..\:/Mr. Pdf/Android Projects/app/src/main/res/drawable/beanb.xml" value="0.124" />
+        <entry key="..\:/Mr. Pdf/Android Projects/app/src/main/res/drawable/border.xml" value="0.123" />
+        <entry key="..\:/Mr. Pdf/Android Projects/app/src/main/res/font/poppins_extrabold.xml" value="0.14322916666666666" />
+        <entry key="..\:/Mr. Pdf/Android Projects/app/src/main/res/layout/activity_anasayfa.xml" value="0.264" />
+        <entry key="..\:/Mr. Pdf/Android Projects/app/src/main/res/layout/activity_giris.xml" value="0.16" />
+        <entry key="..\:/Mr. Pdf/Android Projects/app/src/main/res/layout/activity_hesap.xml" value="0.35106382978723405" />
         <entry key="..\:/Mr. Pdf/Android Projects/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Mr. Pdf/Android Projects/app/src/main/res/layout/activity_verigiris.xml" value="0.2" />
       </map>
     </option>
   </component>
