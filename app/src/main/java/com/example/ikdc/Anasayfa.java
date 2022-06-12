@@ -23,4 +23,8 @@ public class Anasayfa extends AppCompatActivity {
         Intent intent = new Intent(this,Verigiris.class);
         startActivity(intent);
     }
+
+    public void terminate(View view) {
+        finish();
+    }
 }
